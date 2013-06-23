@@ -9,3 +9,6 @@ Currently contains:
   Use it like this:  
 ```md5sum -c a51_table_md5_hashes```  
 Note: it takes quite some time to run MD5 on such large files, so be prepared that it is possible it takes 12-15 hours
+
+- List of the exact sizes of all tables so you can check if you have the right files via  
+```ls -l```
