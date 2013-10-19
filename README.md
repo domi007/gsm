@@ -12,3 +12,5 @@ Note: it takes quite some time to run MD5 on such large files, so be prepared th
 
 - List of the exact sizes of all tables so you can check if you have the right files via  
 ```ls -l```
+
+- SilentSMS as a submodule - an Android app that can send silent text messages
