@@ -1,0 +1,3 @@
+[submodule "silentSMS"]
+	path = silentSMS
+	url = https://github.com/domi007/silentSMS.git
